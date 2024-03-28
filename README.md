@@ -10,6 +10,5 @@ Sulay Gisela Martínez Barreto CC 1038137981 Ingeniería de sistemas
 
 Enlace de la competencia de Kaggle https://www.kaggle.com/competitions/amex-default-prediction/data 
 
-En el apartado 01 podrás tener una guia para generar datos de prueba y trenes de muestra
 
-Ejecuta el cuaderno llamado 01 - Análisis de datos, modelos e interacciones.ipynb incluido en este repositorio donde esta explicado en cada linea del cuaderno lo que se esta ejecutando.
+Ejecuta el cuaderno llamado 01 - Análisis de datos, modelos e interacciones.ipynb incluido en este repositorio donde esta explicado en cada linea del cuaderno lo que se esta ejecutando, empezando por la ejecucion de las librerias necesarias para el modelamiento, continuando con la extraccion y carga de los datos previamente extraidos y tratados del dataset de kaggle (hay que logearse en la pagina de kaggle, luego suscribirse a la competicion en la parte inferior del "data description" debe darle click en "Subject to Competition Rules" para suscribirse a la competicion con el fin de poder acceder al archivo train_data.csv el cual trae todo el dataset al que se le va a aplicar el modelamiento, por ultimo se realiza un tratamiento de conversion al archivo del dataset para transformarlo a .txt para que este quede mas liviano y cargarlo mas facilmente en el servidor de google colab) y ejecutando todo el resto del cuaderno para obtener los resultados del modelo predictivo.
