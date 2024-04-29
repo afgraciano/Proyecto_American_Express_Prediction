@@ -30,7 +30,7 @@ docker images --> ver imagenes creadas
 
 docker cp nombre_contenedor:ruta_del_archivo_dentro_del_contenedor directorio_destino_en_mi_computadora docker cp american:/app/data/prediction_file.csv "C:\Users\andres\Downloads\modelos\American Express-Entrenamiento-prediccion-Api"
 
-python .\predict.py --input_file=data/test_data.csv --predictions_file=data/prediction_file.csv --model_file=modelo_final.pkl
+python predict.py --input_file=data/test_data.csv --predictions_file=data/prediction_file.csv --model_file=modelo_final.pkl
 
 ---------
 ## Enlace de la competencia de Kaggle https://www.kaggle.com/competitions/amex-default-prediction/data
