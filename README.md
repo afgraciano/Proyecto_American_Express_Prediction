@@ -8,6 +8,10 @@
   - Jose Carlos Ortiz Padilla CC 1003059949 Ingeniería de sistemas 
 
   - Sulay Gisela Martínez Barreto CC 1038137981 Ingeniería de sistemas
+#clonar en local este repositorio
+-se debe tener instalado git en el equipo local
+-se descarga desde 
+
 ## instrucciones para docker
 debe entrar con el cmd a la carpeta donde esta descargado o clonado este repositorio para realizar las ejecuciones siguientes:
 
