@@ -22,6 +22,8 @@ docker build -t american . --> crear la imagen
 
 docker run -p 3000:3000 -it --name american american --> hacer un docker con la imagen creada y ver el cmd del docker en tiempo real
 
+docker start 489ec5ab41c --> inicializa mi contenedor
+
 docker exec -it 489ec5ab41c /bin/bash --> entrar a los archivos del docker
 
 docker ps ---> ver docker creados
