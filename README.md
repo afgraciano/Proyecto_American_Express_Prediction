@@ -20,7 +20,7 @@ Debe entrar con el cmd a la carpeta donde esta descargado o clonado este reposit
 
 docker build -t american . --> crear la imagen
 
-docker run -p 3000:3000 -it --name american american --> hacer un docker con la iamgen creada y ver el cmd del docker en tiempo real
+docker run -p 3000:3000 -it --name american american --> hacer un docker con la imagen creada y ver el cmd del docker en tiempo real
 
 docker exec -it 489ec5ab41c /bin/bash --> entrar a los archivos del docker
 
