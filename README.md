@@ -13,7 +13,7 @@ docker build -t american . --> crear la imagen
 
 docker run -p 3000:3000 -it --name american american --> hacer un docker con la iamgen creada y ver el cmd del docker en tiempo real
 
-docker exec -it 21cd96a1dea74 /bin/bash --> entrar a los archivos del docker
+docker exec -it 9b64fd8d32ef1bfd118b260bd2dc67aa65e26b2d73f4af75fedf5b5717675b7c /bin/bash --> entrar a los archivos del docker
 
 docker ps ---> ver docker creados
 
