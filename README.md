@@ -9,6 +9,8 @@
 
   - Sulay Gisela Martínez Barreto CC 1038137981 Ingeniería de sistemas
 ## instrucciones para docker
+debe entrar con el cmd a la carpeta donde esta descargado o clonado este repositorio para realizar las ejecuciones siguientes:
+
 docker build -t american . --> crear la imagen
 
 docker run -p 3000:3000 -it --name american american --> hacer un docker con la iamgen creada y ver el cmd del docker en tiempo real
