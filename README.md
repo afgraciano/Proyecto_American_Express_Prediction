@@ -13,7 +13,7 @@
 ## Clonar en local este repositorio
 -Se debe tener instalado git en el equipo local
 
--Se descarga desde code, download zip. si quiere clonarlo entonces copia el url en code y en git bash escribes git clone y la url y enter
+-Se descarga en la pagina del repositorio desde code al lado derecho arriba, download zip. Si quiere clonarlo entonces copia el url en code y en git bash escribes git clone y la url y enter
 
 ## instrucciones para docker
 Debe entrar con el cmd a la carpeta donde esta descargado o clonado este repositorio y verifique que este el archivo dockerfile en dicha carpeta para realizar las ejecuciones siguientes:
