@@ -63,7 +63,7 @@ docker build -t american .
 ### Ejecutar un contenedor con la imagen creada
 
 ```sh
-docker run -p 3000:3000 -it --name american american
+docker run -it -p 3000:3000 api
 ```
 
 ### Entrar al contenedor
